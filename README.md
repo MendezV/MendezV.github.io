@@ -4,7 +4,7 @@
 
 sfasdfakjhlkasjfhaksjfha
 
-<img src="https://github.com/MendezV/MendezV.github.io/blob/main/Felipe5.jpg" alt="Alt text for image" width="100" height="300">
+<img src="https://github.com/MendezV/MendezV.github.io/blob/main/Felipe5.jpg" alt="Alt text for image" width="170" height="300">
 
 ## Research
 

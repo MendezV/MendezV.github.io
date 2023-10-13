@@ -1,4 +1,3 @@
-# Juan Felipe Mendez-Valderrama
 
 ## About Me
 

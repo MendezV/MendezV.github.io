@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!-- ![Me](/images/pic3.jpeg) -->
+
+<p align="center">
+  <img src="/images/pic3.jpeg" alt="GitHub's logo">
+</p>
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -93,7 +99,7 @@ end
 - level 1 item
 
 ### Small image
-![Me](/images/IMG_6482.png)
+
 
 ### Large image
 

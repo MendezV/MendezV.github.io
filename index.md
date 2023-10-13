@@ -93,7 +93,7 @@ end
 - level 1 item
 
 ### Small image
-![Octocat](/images/IMG_6482.png)
+![Me](/images/IMG_6482.png)
 
 ### Large image
 

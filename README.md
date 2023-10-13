@@ -1,15 +1,11 @@
 
-## About Me
-
-sfasdfakjhlkasjfhaksjfha
-
 ## Research
 
 My research focuses on asdfasdf. Some of my recent publications include:
 
-- [Publication 1](link to publication)
-- [Publication 2](link to publication)
-- [Publication 3](link to publication)
+1. [Publication 1](link to publication)
+2. [Publication 2](link to publication)
+3. [Publication 3](link to publication)
 
 ## Teaching
 

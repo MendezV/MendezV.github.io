@@ -4,7 +4,7 @@ layout: default
 <!-- ![Me](/images/pic3.jpeg) -->
 
 <p align="center">
-  <img src="/images/pic3.jpeg" alt="GitHub's logo">
+  <img src="/images/pic4.jpeg" alt="GitHub's logo">
 </p>
 
 

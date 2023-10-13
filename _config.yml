@@ -14,6 +14,6 @@ twitter_username: JuanFelipeMV
 github_username:  MendezV
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 # plugins:
 #   - jekyll-feed

@@ -1,19 +1,13 @@
-
 title: Juan Felipe Mendez-Valderrama
 logo: /assets/images/IMG_6482.png
-
 email: som.felipe66 -at- gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome! I'm a theoretical condensed matter physicist, currently
-  pursuing my Ph.D. at Cornell University. My research tries to increase
-  our understanding of complex quantum systems with many strongly interacting 
-  consituents. These 'quantum materials' could potentially lead to revolutionary
-  technologies, but I do it mostly for the fun.
-
+ Welcome! I'm a theoretical condensed matter physicist, currently
+ pursuing my Ph.D. at Cornell University. My research tries to increase
+ our understanding of complex quantum systems with many strongly interacting
+ consituents. These 'quantum materials' could potentially lead to revolutionary
+ technologies, but I do it mostly for the fun.
 twitter_username: JuanFelipeMV
 github_username:  MendezV
-
-# Build settings
+google_analytics:
 theme: jekyll-theme-cayman
-# plugins:
-#   - jekyll-feed

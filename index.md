@@ -93,7 +93,7 @@ end
 - level 1 item
 
 ### Small image
-![Octocat](https://github.github.com/MendezV/MendezV.github.io/images/IMG_6482.png)
+![Octocat](/images/IMG_6482.png)
 
 ### Large image
 

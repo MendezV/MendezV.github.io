@@ -19,6 +19,4 @@ I have taught courses on asfasdf. Some of the courses I have taught include:
 - [Course 2](link to course syllabus)
 - [Course 3](link to course syllabus)
 
-## Contact
 
-You can reach me at jfmv343_at_gmail_dot_com or follow me on [LinkedIn]([link to LinkedIn profile](https://www.linkedin.com/in/juan-felipe-m%C3%A9ndez-valderrama-299817134/)).

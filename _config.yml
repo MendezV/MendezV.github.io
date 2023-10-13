@@ -1,5 +1,6 @@
 
 title: Juan Felipe Mendez-Valderrama
+logo: /assets/img/headshot_circle.png
 email: som.felipe66 -at- gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome! I'm a theoretical condensed matter physicist, currently
@@ -10,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 twitter_username: JuanFelipeMV
 github_username:  MendezV
-logo: /assets/img/headshot_circle.png
+
 # Build settings
 theme: jekyll-theme-minimal
 # plugins:

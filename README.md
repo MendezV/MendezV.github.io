@@ -4,8 +4,6 @@
 
 sfasdfakjhlkasjfhaksjfha
 
-<img src="https://github.com/MendezV/MendezV.github.io/blob/main/Felipe5.jpg" alt="Alt text for image" width="200" height="240">
-
 ## Research
 
 My research focuses on asdfasdf. Some of my recent publications include:

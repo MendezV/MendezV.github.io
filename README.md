@@ -1,18 +1,11 @@
 
-## Research
+# Ph.D. Candidate
 
-My research focuses on asdfasdf. Some of my recent publications include:
-
-1. [Publication 1](link to publication)
-2. [Publication 2](link to publication)
-3. [Publication 3](link to publication)
-
-## Teaching
-
-I have taught courses on asfasdf. Some of the courses I have taught include:
-
-- [Course 1](link to course syllabus)
-- [Course 2](link to course syllabus)
-- [Course 3](link to course syllabus)
+## Education
+- Ph.D., Physics | Cornell University (_May 2023_)								       		
+- M.S., Physics	| Cornell University (_April 2021_)
+- M.S., Physics	| Universidad de los Andes (_June 2018_)
+- B.S., Physics minor in Mathematics | Universidad de los Andes (_June 2016_)
 
 
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB

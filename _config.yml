@@ -10,8 +10,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 twitter_username: JuanFelipeMV
 github_username:  MendezV
-
+logo: /assets/img/headshot_circle.png
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 # plugins:
 #   - jekyll-feed

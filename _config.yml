@@ -27,8 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   consituents. These 'quantum materials' could potentially lead to revolutionary
   technologies, but I do it mostly for the fun.
 
-baseurl: "/jfmendezvalderrama" # the subpath of your site, e.g. /blog
-url: "https://mendezv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JuanFelipeMV
 github_username:  MendezV
 

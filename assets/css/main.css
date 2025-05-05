@@ -12,8 +12,8 @@ body{font-family:'CMU Sans Serif',sans-serif;color:var(--text);background:var(--
 header{background:var(--primary);color:#fff;padding:3rem 1rem;text-align:center}
 
 header img{
-    width:220px;          /* bigger circle */
-    height:220px;
+    width:240px;          /* bigger circle */
+    height:240px;
     border-radius:50%;
     object-fit:cover;     /* keep circle fill */
     object-position: top; /* show more of the top of the photo */

@@ -1,6 +1,6 @@
 :root{--primary:#0d6efd;--text:#333;--bg:#fff;--muted:#666;--max-width:880px;}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Roboto',sans-serif;color:var(--text);background:var(--bg);line-height:1.6}
+body{font-family:'CMU Sans Serif',sans-serif;color:var(--text);background:var(--bg);line-height:1.6}
 header{background:var(--primary);color:#fff;padding:3rem 1rem;text-align:center}
 header img{width:160px;height:160px;border-radius:50%;object-fit:cover;margin-bottom:1rem;border:4px solid #fff}
 nav{background:#f8f9fa;border-bottom:1px solid #ddd}

@@ -4,13 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
-
-  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-
-  <!-- Main stylesheet -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 </head>
 <body>
@@ -18,16 +14,16 @@
     <img src="{{ "/assets/profile.jpg" | relative_url }}" alt="Profile photo">
     <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
-    <a class="button" href="{{ "/assets/CV.pdf" | relative_url }}" target="_blank" rel="noopener">Download Full CV</a>
+    <a class="button" href="{{ "/assets/CV.pdf" | relative_url }}" target="_blank" rel="noopener">Download Full CV</a>
   </header>
 
   <nav>
     <ul>
-      <li><a href="#shortcv">Short CV</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#talks">Talks</a></li>
-      <li><a href="#contact">Links & Contact</a></li>
+      <li><a href="{{ "/shortcv/" | relative_url }}">Short CV</a></li>
+      <li><a href="{{ "/research/" | relative_url }}">Research</a></li>
+      <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
+      <li><a href="{{ "/talks/" | relative_url }}">Talks</a></li>
+      <li><a href="{{ "/contact/" | relative_url }}">Links & Contact</a></li>
     </ul>
   </nav>
 
@@ -38,11 +34,6 @@
   <footer>
     &copy; <span id="year"></span> {{ site.title }}
   </footer>
-
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-    // smooth‑scroll for nav links
-    document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();document.querySelector(a.getAttribute('href')).scrollIntoView({behavior:'smooth'});}));
-  </script>
+  <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
 </body>
 </html>

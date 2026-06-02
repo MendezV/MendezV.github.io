@@ -1,13 +1,13 @@
 ---
-layout: default
 title: Publications
+icon: fas fa-book
+order: 3
+permalink: /publications/
 ---
-
-## Publications
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=u138FgQAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3026-8940), and [arXiv author search](https://arxiv.org/search/?query=mendez-valderrama&searchtype=all&abstracts=show&order=-announced_date_first&size=50).
 
-### Publications and Preprints
+## Publications and Preprints
 
 1. Miguel Goncalves, J. F. Mendez-Valderrama, Jonah Herzog-Arbeitman, Jiabin Yu, Xiaodong Xu, Di Xiao, B. Andrei Bernevig, and Nicolas Regnault, "Spinless and spinful charge excitations in moire Fractional Chern Insulators," arXiv:2506.05330 (2025). [arXiv](https://arxiv.org/abs/2506.05330)
 2. Heonjoon Park, Weijie Li, Chaowei Hu, Christiano Beach, Miguel Goncalves, J. F. Mendez-Valderrama, Jonah Herzog-Arbeitman, Takashi Taniguchi, Kenji Watanabe, David Cobden, Liang Fu, B. Andrei Bernevig, Nicolas Regnault, Jiun-Haw Chu, Di Xiao, and Xiaodong Xu, "Observation of High-Temperature Dissipationless Fractional Chern Insulator," arXiv:2503.10989 (2025). [arXiv](https://arxiv.org/abs/2503.10989)
@@ -24,7 +24,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=u
 13. J. F. Mendez-Valderrama, Yunus A. Kinkhabwala, Jeffrey Silver, Itai Cohen, and Tomas A. Arias, "Density-functional fluctuation theory of crowds," <em>Nature Communications</em> 9, 3538 (2018). [DOI](https://doi.org/10.1038/s41467-018-05750-z)
 14. Santiago Aguirre, Juan Diego Arango-Montoya, David Jaramillo-Duque, J. F. Mendez-Valderrama, Nicolas Morales-Duran, and Mateo Restrepo, "A quantum random number generator implementation with polarized photons," <em>Emergent Scientist</em> 1, 2 (2017). [DOI](https://doi.org/10.1051/emsci/2017002)
 
-### Press
+## Press
 
 1. Kate Blackwood, "Revealing the superconducting limit of twisted bilayer graphene," <em>Phys.org</em>, November 4, 2024. [Article](https://phys.org/news/2024-11-revealing-superconducting-limit-bilayer-graphene.html)
 2. Kate Blackwood, "Revealing the superconducting limit of 'magic' material," <em>Cornell Chronicle</em>, November 4, 2024. [Article](https://as.cornell.edu/news/revealing-superconducting-limit-magic-material)

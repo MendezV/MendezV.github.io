@@ -1,14 +1,14 @@
 ---
-layout: default
-title: Links & Contact
+title: Contact
+icon: fas fa-envelope
+order: 5
+permalink: /contact/
 ---
 
-## Links & Contact
+Email: jm9648 . at . princeton.edu, jfmv343 . at . gmail.com  
+Office: 314 Jadwin Hall, Department of Physics, Princeton University, Princeton, NJ 08544
 
-Email: [jm9648@princeton.edu](mailto:jm9648@princeton.edu), [jfmv343@gmail.com](mailto:jfmv343@gmail.com)  
-Office: 314 Jadwin Hall, Department of Physics, Princeton University, Princeton, NJ 08544  
-
-### Profiles
+## Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=u138FgQAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0003-3026-8940)

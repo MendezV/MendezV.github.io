@@ -1,11 +1,11 @@
 ---
-layout: default
 title: Talks
+icon: fas fa-microphone
+order: 4
+permalink: /talks/
 ---
 
-## Talks and Events
-
-### Invited and Seminar Talks
+## Invited and Seminar Talks
 
 1. **Mar 2026:** APS Global Summit, "Itinerant Anyons in Fractionally Filled Chern Bands." Invited talk.
 2. **Mar 2026:** Princeton Quantum Initiative Seminar, "Correlated mixed-valence insulators in moire transition metal dichalcogenides."
@@ -18,7 +18,7 @@ title: Talks
 9. **Mar 2022:** APS March Meeting, "Frustration induced non-Fermi liquid behavior."
 10. **Mar 2021:** APS March Meeting, "Bad metallic transport in geometrically frustrated models."
 
-### Conferences, Schools, and Workshops
+## Conferences, Schools, and Workshops
 
 1. **Mar 2026:** American Physical Society Global Physics Summit, Denver, CO, USA. Talk: "Itinerant Anyons in Fractionally Filled Chern Bands."
 2. **Jul 2025:** PCCM Summer School, Princeton, NJ, USA.

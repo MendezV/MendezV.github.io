@@ -1,13 +1,13 @@
 ---
-layout: default
 title: Research
+icon: fas fa-atom
+order: 2
+permalink: /research/
 ---
-
-## Research
 
 My work aims to understand quantum phases of matter where strong interactions drive orders and responses that fall outside conventional weak-coupling analyses.
 
-### Themes
+## Themes
 
 - Strong correlations and unconventional superconductivity in moire materials.
 - Fractional Chern insulators, collective modes, and charge excitations in topological flat bands.

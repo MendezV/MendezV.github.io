@@ -1,0 +1,23 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4180/</id>
+  <title>Juan Felipe Mendez-Valderrama</title>
+  <subtitle>Theoretical condensed-matter physicist and PCCM postdoctoral fellow at Princeton University.</subtitle>
+  <updated>2026-06-02T10:39:19-04:00</updated>
+  <author>
+    <name>Juan Felipe Mendez-Valderrama</name>
+    <uri>http://localhost:4180/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4180/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4180/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2026 Juan Felipe Mendez-Valderrama </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+

@@ -15,6 +15,15 @@
   object-position: center top;
 }
 
+.post-content p,
+.post-content li,
+.post-content blockquote {
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
 @media (max-width: 1199px) {
   #sidebar #avatar > a,
   #sidebar .profile-wrapper #avatar > a {

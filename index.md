@@ -11,9 +11,13 @@ My research focuses on strongly correlated quantum matter, especially unconventi
 
 ### Recent Work
 
-- Spinless and spinful charge excitations in moire fractional Chern insulators. [arXiv](https://arxiv.org/abs/2506.05330)
-- Observation of a high-temperature dissipationless fractional Chern insulator. [arXiv](https://arxiv.org/abs/2503.10989)
-- Theory of correlated insulators and superconductivity in twisted WSe<sub>2</sub>. [Nature Communications](https://doi.org/10.1038/s41467-025-56816-8)
-- Low-energy optical sum rule in moire graphene. [Physical Review Letters](https://doi.org/10.1103/PhysRevLett.133.196501)
+- Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators. [arXiv](https://arxiv.org/abs/2610.10706)
+- Distinguishing Mott and strain-induced anisotropic semimetals in magic-angle twisted bilayer graphene using Landau level spectroscopy. [arXiv](https://arxiv.org/abs/2608.20694)
+- Resonant Far-Infrared Spectroscopy of Flat-Band Fermions in Magic Angle Graphene. [arXiv](https://arxiv.org/abs/2608.12553)
+- Spinless and spinful charge excitations in moire fractional Chern insulators. [Physical Review Letters](https://doi.org/10.1103/gmkp-bxf2) [arXiv](https://arxiv.org/abs/2506.05330)
+- Observation of dissipationless fractional Chern insulator. [Nature Physics](https://doi.org/10.1038/s41567-025-03167-2) [arXiv](https://arxiv.org/abs/2503.10989)
+- Low-energy optical absorption in correlated insulators: Projected sum rules and the role of quantum geometry. [Physical Review B](https://doi.org/10.1103/xmz7-jgl6) [arXiv](https://arxiv.org/abs/2410.16352)
+
+See my [Publications](/publications/) for the complete list.
 
 For a compact career summary, see my [Short CV](/shortcv/). For the full document, download the [CV PDF](/assets/CV.pdf).
